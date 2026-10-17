@@ -2,8 +2,8 @@
 using namespace std;
 
 int main(){
-    int n,sum,p=0;
-    cin>>n;
+    int n=741,sum,p=0;
+    //cin>>n;
 
     while(n>0){
         p += n%10;
